@@ -64,4 +64,4 @@ contract IOPnRWA {
         emit Transfer(msg.sender, _to, _value);
         return true;
     }
-}# IOPn-RWA-Smart-Contract
+}
